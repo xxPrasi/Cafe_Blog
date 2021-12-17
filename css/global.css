@@ -1,0 +1,22 @@
+html
+{
+    font-size: 100%;
+    box-sizing: border-box;
+}
+
+*, *::before, *::after
+{
+    box-sizing: inherit;
+    list-style: none;
+    text-decoration: none;
+}
+
+body
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.2;
+    margin: 0px;
+    padding: 0px;
+    color: black;
+}
+
